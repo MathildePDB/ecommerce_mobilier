@@ -1,10 +1,8 @@
--------------------- ecommerce_sf6 --
--- tuto NouvelleTechno Symfony6 ------------
+-------------------- ecommerce_mobilier --
+-- site e-commerce de vente d'objets mobiliers
 
 
 ------------- Symfony 6.1.2 --- PHP 8.2.1 -------------
-
--- Contenu du tuto --
 
 - Gestion des utilisateurs et des permissions
 - ajout et modification entité (produit)
